@@ -17,7 +17,16 @@ proper validation), and **Streamlit/Plotly** (interactive BI).
 > real-shaped problems, fully reproducibly (seeded) and without licensing concerns.
 
 ---
+## Dashboard
 
+### Customer Segmentation
+![Customer Segmentation](./Docs/Customer%20segment.png)
+
+### Future 90-Day Churn Risk
+![Future 90-Day Churn Risk](./Docs/Future%20churn%20risk.png)
+
+### Revenue Forecast
+![Revenue Forecast](./Docs/Revenue%20Forcast.png)
 ## Results at a glance
 
 | Component | Metric | Result |
