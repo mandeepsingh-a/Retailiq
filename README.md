@@ -259,7 +259,7 @@ first. Raw/processed data and trained model binaries are gitignored and regenera
 ## Running it yourself
 
 ```bash
-git clone https://github.com/mandeepsingh-a/retailiq.git
+git clone https://github.com/mandeepsingh-a/Retailiq.git
 cd retailiq
 python -m venv venv && source venv/bin/activate    # Windows: venv\Scripts\activate
 pip install -r requirements.txt
