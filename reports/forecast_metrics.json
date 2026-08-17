@@ -1,0 +1,12 @@
+{
+  "test_horizon_days": 60,
+  "model": {
+    "mae": 3258.44,
+    "mape": 0.1088
+  },
+  "seasonal_naive_baseline": {
+    "mae": 3580.62,
+    "mape": 0.1215
+  },
+  "improvement_vs_baseline_pct": 9.0
+}
