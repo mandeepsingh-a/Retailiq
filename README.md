@@ -259,7 +259,7 @@ first. Raw/processed data and trained model binaries are gitignored and regenera
 ## Running it yourself
 
 ```bash
-git clone https://github.com/<your-username>/retailiq.git
+git clone https://github.com/mandeepsingh-a/retailiq.git
 cd retailiq
 python -m venv venv && source venv/bin/activate    # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -287,7 +287,7 @@ pytest tests/ -v
 ## Author
 
 **Mandeep Singh** — Data Analyst | Power BI · SQL · Python · DAX
-[LinkedIn](https://linkedin.com/in/your-linkedin-handle) ·
+[LinkedIn](https://linkedin.com/in/mandeepsingh-ai) ·
 [mandeepsingh3506@gmail.com](mailto:mandeepsingh3506@gmail.com)
 
 ## License
